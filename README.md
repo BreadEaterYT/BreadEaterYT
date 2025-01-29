@@ -37,3 +37,12 @@ You can contribute as much as you want, getting help from more talented developp
 
 ### 📫 How to contact me
 You can contact me at contact@breadeater.fr if you want some help from me or just want to ask something.
+
+You can see my posts on daily.dev too !
+<br><br>
+
+<p align="left">
+    <a href="https://app.daily.dev/breadeater">
+        <img src="https://api.daily.dev/devcards/v2/AOCSViNIPRxiugsR5wCwX.png?type=wide&r=eww" width="489" alt="BreadEater's Dev Card"/>
+    </a>
+</p>
