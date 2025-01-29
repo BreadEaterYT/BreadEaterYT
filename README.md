@@ -1,11 +1,15 @@
-# 🥖 BreadEater 🥖
+<h1 align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=336699&center=true&vCenter=true&repeat=false&width=500&lines=Hi+there%2C+im+BreadEater%2C+nice+to+meet+you+!" alt="Typing SVG">
+    </a>
+</h1>
+<br>
 
-## 💁 Presentation
 Hello i'm BreadEater, a self-taught fullstack developer that love developping for fun and not for profits, the only thing missing for me to be good is patience, im not patient at all atleast for irl stuff.
-I might be only 15, but i know a lot of things as a 15-year-old developper.
 
 Im a chill guy, a bit of annoying sometimes but i'am like that and i can't really do much about it.
 For the rest of the presentation down below, there might be swearing words but dont take it the wrong way, im just being honest and truely telling what i feel about something.
+<br><br>
 
 ### ❔ Why i started coding
 Because i was curious about how websites works and wanted to learn how to use devtools.
