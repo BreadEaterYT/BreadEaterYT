@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Java",
+        "img_url": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
+    },
+    {
+        "name": "HTML",
+        "img_url": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+    },
+    {
+        "name": "CSS",
+        "img_url": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+    },
+    {
+        "name": "JavaScript",
+        "img_url": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+    },
+    {
+        "name": "TypeScript",
+        "img_url": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+    },
+    {
+        "name": "PHP",
+        "img_url": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
+    },
+    {
+        "name": "C",
+        "img_url": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
+    },
+    {
+        "name": "C++",
+        "img_url": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
+    },
+    {
+        "name": "MySQL",
+        "img_url": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+    },
+    {
+        "name": "SQLite",
+        "img_url": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"
+    },
+    {
+        "name": "MariaDB",
+        "img_url": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg"
+    },
+    {
+        "name": "Maven",
+        "img_url": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg"
+    },
+    {
+        "name": "VSCode",
+        "img_url": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+    },
+    {
+        "name": "IDEA",
+        "img_url": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"
+    },
+    {
+        "name": "WebStorm",
+        "img_url": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg"
+    },
+    {
+        "name": "CLion",
+        "img_url": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg"
+    }
+]

@@ -1,0 +1,85 @@
+@font-face {
+    font-family: Poppins;
+    src: url(../font/Poppins-Regular.ttf);
+}
+
+@font-face {
+    font-family: PoppinsSemiBold;
+    src: url(../font/Poppins-SemiBold.ttf);
+}
+
+body {
+    background: #000000;
+    background: -webkit-linear-gradient(45deg, rgba(0, 0, 0, 1) 0%, rgba(97, 97, 97, 1) 100%);
+    background: -moz-linear-gradient(45deg, rgba(0, 0, 0, 1) 0%, rgba(97, 97, 97, 1) 100%);
+    background: linear-gradient(45deg, rgba(0, 0, 0, 1) 0%, rgba(97, 97, 97, 1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000", endColorstr="#616161", GradientType=0);
+    min-height: 100vh;
+}
+
+#card {
+    height: fit-content;
+    background: rgba(255, 255, 255, 0.55);
+    transform: translateX(-50%);
+    position: absolute;
+    border-radius: 8px;
+    left: 50%;
+    top: 12.5%;
+}
+
+#cardimg {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    position: relative;
+    transform: translateX(-50%);
+    margin-bottom: 12px;
+    left: 50%;
+    top: 12px;
+}
+
+#cardtitle {
+    font-family: PoppinsSemiBold;
+    position: relative;
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 12px;
+    margin-top: 12px;
+    width: 100%;
+}
+
+#card_descline {
+    font-family: Poppins;
+    text-align: center;
+}
+
+#programming_languages {
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: 12px;
+    align-content: center;
+    justify-content: center;
+    transform: translateX(-50%);
+    position: relative;
+    left: 50%;
+}
+
+#programming_language {
+    width: 56px;
+    height: fit-content;
+    padding: 10px;
+    flex: 0;
+}
+
+#programminglanguage_img {
+    width: 36px;
+}
+
+#programminglanguage_list_title, #images_source_text {
+    font-family: PoppinsSemiBold;
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 24px;
+    margin-top: 24px;
+    width: 100%;
+}
